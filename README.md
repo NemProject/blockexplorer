@@ -3,7 +3,7 @@
 =========================
 
 Blockchain explorer for the New Economy Movement.
-* Tentatively called NEMBEX.
+* Tentatively called [NEMBEX](http://chain.nem.ninja/#/blocks/0).
 
 Requirements: 
 -------------
